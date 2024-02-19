@@ -1,0 +1,14 @@
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.exe
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.deps.json
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.runtimeconfig.json
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.dll
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.pdb
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.AssemblyInfoInputs.cache
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.AssemblyInfo.cs
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.csproj.CoreCompileInputs.cache
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.dll
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\obj\Debug\net6.0\refint\JuegoDados.dll
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.pdb
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.genruntimeconfig.cache
+C:\Users\Lean0880\source\repos\JuegoDados\JuegoDados\obj\Debug\net6.0\ref\JuegoDados.dll
